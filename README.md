@@ -94,6 +94,13 @@ To contribute:
 
 ---
 
+## 🙌 Acknowledgements
+
+This project was created as part of the **Google Developer Student Clubs (GDSC) Workshop – Building ChatGPT**.
+
+---
+
+
 ## 📄 License
 
 This project is licensed under the [MIT License](LICENSE).
